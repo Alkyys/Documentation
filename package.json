@@ -4,10 +4,14 @@
   "description": "documentation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
   },
   "author": "Alkyys <samuelvgnl@gmail.com>",
   "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+ },
   "devDependencies": {
     "vuepress": "^1.2.0"
   }
