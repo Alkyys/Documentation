@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Samuel\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Samuel\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Android;C:\Windows\System32;C:\Program Files (x86)\Yarn\bin;C:\wamp64\bin\php\php7.3.1;C:\composer;C:\Program Files\nodejs;C:\Users\Samuel\.windows-build-tools\python27;C:\Users\Samuel\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\Samuel\AppData\Local\Programs\Python\Python38-32;C:\Ruby25-x64\bin;C:\Users\Samuel\AppData\Local\Microsoft\WindowsApps;C:\Users\Samuel\AppData\Local\Programs\Microsoft VS Code\bin;C:\tools\dart-sdk\bin;C:\Users\Samuel\AppData\Roaming\Pub\Cache\bin;C:\Users\Samuel\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\Samuel\AppData\Roaming\Dashlane\6.1907.0.17833\ucrt;C:\Users\Samuel\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Qt;C:\Users\Samuel\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Ssl;C:\Users\Samuel\AppData\Local\Yarn\bin;C:\Users\Samuel\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\WebStorm 2019.1.1\bin;C:\Users\Samuel\AppData\Local\GitHubDesktop\bin;C:\Program Files\MongoDB\Server\4.0\bin;C:\Program Files\heroku\bin;C:\Users\Samuel\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  10.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:125801:13)
+      at Interface.emit (events.js:198:13)
+      at Interface._ttyWrite (readline.js:801:16)
+      at ReadStream.onkeypress (readline.js:184:10)
+      at ReadStream.emit (events.js:198:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1075:36)
+      at ReadStream.emit (events.js:198:13)
+      at addChunk (_stream_readable.js:288:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
