@@ -1,6 +1,6 @@
-# Bienvenue sur mon Guide 🎉
+# Quelque sites utiles 🎉
 
-## Ressources Design
+## Ressources Design 🎨
 
 ### Couleurs
 * [Coolors](https://coolors.co/app)
@@ -21,7 +21,7 @@
 * [FontPairings](https://fontpairings.bypeople.com)
 <br> un outil gratuit pour tester et visualiser les bonnes combinaisons de polices
 
-## Technique
+## Technique 🔧
 
 ### SEO
 * [Global Speed Test](https://www.chinafy.com/tools/global-speed-test)
@@ -30,7 +30,7 @@
 * [Étude SEO](https://www.blogdumoderateur.com/seo-ranking-factors-sparktoro-2019/)
 <br> Voici les résultats d'une étude de Rand Fishkin, SparkToro, menée en août 2019 auprès de 1 500 référenceurs.
 
-## Template 
+## Template 🐱‍🏍
 
 ### Templates signature email
 * [HubSpot signature](https://www.hubspot.fr/email-signature-generator)
@@ -47,7 +47,11 @@
 * [UI Kit by Adobe](https://www.adobe.com/fr/products/xd/resources.html)
 <br> Créez des expériences uniques avec des kits d'interfaces conçus exclusivement pour XD.
 
-## Marketing
+### Templates Site
+* [themezy](https://www.themezy.com)
+<br> Free Website, Wordpress and email Templates
+
+## Marketing 👨‍💼
 
 ### Outils Marketing
 * [HubSpot](https://www.hubspot.fr)
@@ -57,17 +61,20 @@
 <br> Gérez votre fichier client, établissez des devis et générez des factures gratuitement
 
 
-
-## VS Code
+## VS Code 👨‍💻
 
 ### VS Code Tools for JavaScript
 * [26 Tools in 2019](https://dev.to/jsmanifest/26-miraculous-vs-code-tools-for-javascript-developers-in-2019-50gg?ref=facebooksp)
 <br> 26 Miraculous VS Code Tools for JavaScript Developers in 2019
 
-## Productivite
+## Productivite 👨‍🏫
 
-### template
+### template docs
 * [usefyi](https://usefyi.com/templates/)
 <br> All the free resources and templates you need to get work done in one place
+
+### email temporaire
+* [10mails](https://10mails.net)
+<br> Generateur d'adresse email temporaire
 
 Powered by [VuePress](https://vuepress.vuejs.org/) 🔥.
