@@ -30,7 +30,7 @@
 * [Étude SEO](https://www.blogdumoderateur.com/seo-ranking-factors-sparktoro-2019/)
 <br> Voici les résultats d'une étude de Rand Fishkin, SparkToro, menée en août 2019 auprès de 1 500 référenceurs.
 
-## Template 🐱‍🏍
+## Template 👾
 
 ### Templates signature email
 * [HubSpot signature](https://www.hubspot.fr/email-signature-generator)
