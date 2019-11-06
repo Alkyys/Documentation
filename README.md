@@ -9,12 +9,77 @@
 * [Muzli Colors](https://colors.muz.li)
 <br> Vous cherchez à créer des palettes de couleurs ou à trouver des concordances de couleurs ? Voici Muzli Colors, l'outil parfait pour générer des palettes.
 
-### Icon / musique / photo
-* [Icones8](https://icones8.fr)
+### Icon libre de droit 
+* [Icones8](https://icones8.fr/icons)
 <br> Icones8 proposait jusqu'à présent des Icônes gratuites à télécharger, ainsi que des photos libres de droits. Le site s'étoffe et propose maintenant des musiques gratuites.
 
 * [Unicons](https://iconscout.com/unicons)
 <br> Il est toujours utile d'avoir à disposition des icônes libres de droit pour travailler sur ses projets web. C'est justement ce que propose Unicons avec plus de 1000 icônes référencées.
+
+* [feathericons](https://feathericons.com)
+<br> Made by @colebemis
+
+* [useanimations](https://useanimations.com)
+<br> A MICRO-ANIMATIONS LIBRARY
+
+* [potlab Icons](http://www.potlabicons.com)
+<br> Made by Suresh
+
+* [weloveiconfonts](https://weloveiconfonts.com)
+<br> We must stop here, this is icon fonts country!
+
+### Photo libre de droit 
+* [lifeofpix](https://www.lifeofpix.com)
+<br> Free high resolution photography
+
+* [pexels](https://www.pexels.com)
+<br> The best free stock photos shared by talented creators.
+
+* [stocksnap.io](https://stocksnap.io)
+<br> Beautiful free stock photos
+
+* [picography](https://picography.co)
+<br> Gorgeous, High-Resolution, Free Photos
+
+* [isorepublic](https://isorepublic.com/photos/)
+<br> Free Stock Photos
+
+* [foodiesfeed](https://www.foodiesfeed.com)
+<br> Search in more than 1400 free food photos
+
+* [burst](https://burst.shopify.com)
+<br> Download free, high-resolution images
+
+* [unsplash](https://unsplash.com)
+<br> The internet’s source of freely useable images. Powered by creators everywhere.
+
+* [gratisography](https://gratisography.com)
+<br> Quirky, Creative, Always Free Photos.
+
+### Illustration libre de droit 
+* [Ouch!](https://icones8.fr/ouch)
+<br> Illustrations gratuites pour sublimer vos projets
+
+### Creation de photo libre de droit 
+* [Icones8](https://photos.icons8.com/creator)
+<br> Icones8 proposait jusqu'à présent des Icônes gratuites à télécharger, ainsi que des photos libres de droits. Le site s'étoffe et propose maintenant des musiques gratuites.
+
+### Musique libre de droit 
+* [Icones8](https://icones8.fr/music)
+<br> Icones8 proposait jusqu'à présent des Icônes gratuites à télécharger, ainsi que des photos libres de droits. Le site s'étoffe et propose maintenant des musiques gratuites.
+
+### Video libre de droit
+* [pexels](https://www.pexels.com/videos/)
+<br> The best free stock videos shared by the Pexels community.
+
+* [Coverr](https://coverr.co)
+<br> Beautiful, free videos for your homepage.
+
+* [videvo](https://www.videvo.net/stock-video-footage/)
+<br> Thousands of free stock videos
+
+* [isorepublic](https://isorepublic.com/videos/)
+<br> Free Stock Video
 
 ### Police de caratere 
 
